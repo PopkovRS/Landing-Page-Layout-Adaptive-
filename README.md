@@ -1,1 +1,3 @@
-# Landing-Page-Layout-Adaptive-
+#Adaptive Landing Page
+
+HTML5; CSS3
